@@ -20,4 +20,3 @@ function frequency(arr) {
 }
 console.log(frequency([1, 2, 3]))
 
-//Google-ic em nayel,lucmany haselem,bayc 100%-ov chem haskacel))
